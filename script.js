@@ -1,4 +1,4 @@
-const apiDomain = "http://localhost:8008/";
+const apiDomain = "https://pythonpuff-girls.herokuapp.com/";
 
 
 // gif selectors
